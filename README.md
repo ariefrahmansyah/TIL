@@ -15,3 +15,7 @@
 #### 2019-01-03
 
 * We can import iTunes songs to Spotify
+
+#### 2019-01-04
+
+* [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/)
