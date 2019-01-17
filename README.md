@@ -19,3 +19,7 @@
 #### 2019-01-04
 
 * [The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model/)
+
+#### 2019-01-17
+
+* [How do I script a “yes” response for installing programs?](https://stackoverflow.com/questions/7642674/how-do-i-script-a-yes-response-for-installing-programs)
