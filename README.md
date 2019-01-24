@@ -23,3 +23,7 @@
 #### 2019-01-17
 
 * [How do I script a “yes” response for installing programs?](https://stackoverflow.com/questions/7642674/how-do-i-script-a-yes-response-for-installing-programs)
+
+#### 2019-01-24
+
+* [How to find a Wi-Fi password on Mac](https://www.idownloadblog.com/2014/05/18/how-to-find-a-wi-fi-password-on-mac/)
