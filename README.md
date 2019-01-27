@@ -27,3 +27,7 @@
 #### 2019-01-24
 
 * [How to find a Wi-Fi password on Mac](https://www.idownloadblog.com/2014/05/18/how-to-find-a-wi-fi-password-on-mac/)
+
+#### 2019-01-27
+
+* [How to Make Google Docs Look Like Dropbox Paper](https://medium.com/s/story/how-to-make-google-docs-look-like-dropbox-paper-787dff91fd2f)
