@@ -36,4 +36,4 @@
 
 #### 2019-03-15
 
-* [Kubernetes' IP Masquerade Agent User Guide](https://kubernetes.io/docs/tasks/admi[Kubernetes' IP Masquerade Agent User Guide](nister-cluster/ip-masq-agent/)
+* [Kubernetes' IP Masquerade Agent User Guide](https://kubernetes.io/docs/tasks/administer-cluster/ip-masq-agent/)
