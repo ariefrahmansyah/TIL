@@ -37,3 +37,9 @@
 #### 2019-03-15
 
 * [Kubernetes' IP Masquerade Agent User Guide](https://kubernetes.io/docs/tasks/administer-cluster/ip-masq-agent/)
+
+### 2019-05
+
+#### 2019-05-07
+
+* [nginx `proxy_intercept_errors`](http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_intercept_errors)
