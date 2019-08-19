@@ -43,3 +43,9 @@
 #### 2019-05-07
 
 * [nginx `proxy_intercept_errors`](http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_intercept_errors)
+
+### 2019-08
+
+#### 2019-08-19
+
+* [FreeBSD Jail](https://en.wikipedia.org/wiki/FreeBSD_jail)
