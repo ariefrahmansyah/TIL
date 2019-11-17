@@ -49,3 +49,9 @@
 #### 2019-08-19
 
 * [FreeBSD Jail](https://en.wikipedia.org/wiki/FreeBSD_jail)
+
+### 2019-11
+
+#### 2019-11-18
+
+* [Google Sheets' FORECAST](https://support.google.com/docs/answer/3094000)
